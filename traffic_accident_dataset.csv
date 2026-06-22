@@ -1,0 +1,21 @@
+Accident_ID,Date,Time,Location,Weather,Road_Condition,Severity,Vehicle_Type
+1,2025-01-05,07:30,City Center,Clear,Dry,Low,Car
+2,2025-01-06,22:15,Highway A,Rain,Wet,High,Bike
+3,2025-01-07,18:45,Main Road,Fog,Wet,Medium,Car
+4,2025-01-08,01:20,Highway A,Rain,Wet,Fatal,Truck
+5,2025-01-10,13:10,City Center,Clear,Dry,Low,Car
+6,2025-01-12,20:30,Market Road,Storm,Damaged,High,Bike
+7,2025-02-01,09:00,Main Road,Clear,Dry,Medium,Bus
+8,2025-02-03,23:40,Highway A,Fog,Icy,Fatal,Truck
+9,2025-02-07,16:25,City Center,Rain,Wet,High,Car
+10,2025-02-10,05:50,Market Road,Clear,Dry,Low,Bike
+11,2025-03-02,21:15,Highway A,Rain,Wet,Fatal,Truck
+12,2025-03-05,11:45,Main Road,Clear,Dry,Medium,Car
+13,2025-03-08,19:30,Market Road,Fog,Damaged,High,Bike
+14,2025-03-15,14:20,City Center,Clear,Dry,Low,Car
+15,2025-03-20,00:30,Highway A,Storm,Icy,Fatal,Truck
+16,2025-04-01,08:10,Main Road,Rain,Wet,Medium,Bus
+17,2025-04-04,17:55,City Center,Clear,Dry,Low,Car
+18,2025-04-09,22:45,Highway A,Fog,Wet,High,Bike
+19,2025-04-12,12:35,Market Road,Rain,Wet,Medium,Car
+20,2025-04-20,03:15,Highway A,Storm,Damaged,Fatal,Truck
